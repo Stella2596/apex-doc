@@ -1,5 +1,5 @@
 # Oracle Application Express (APEX) Quick Reference
-
+Stella made a change here 19/3/22
 A collection of the meaty technical info from [APEX's official documentation](http://docs.oracle.com/cd/E23903_01/doc/doc.41/e21674.pdf) which allows developers and other tech minded folks to ramp up quickly.
 
 APEX is targeted at business oriented folks with high technical aptitude... not necessarily developers.
